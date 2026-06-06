@@ -6,6 +6,14 @@ Este projeto foi desenvolvido como parte do Bootcamp **TOTVS - Fundamentos de En
 
 O objetivo foi aplicar conceitos de Engenharia de Dados por meio da construção de um pipeline **ETL (Extract, Transform, Load)** utilizando Python e Pandas.
 
+## ▶️ Executar no Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ISV3oOabP0e_vsgdRZVZ6H1wf7QNpJaa)
+
+Ou acesse diretamente:
+
+https://colab.research.google.com/drive/1ISV3oOabP0e_vsgdRZVZ6H1wf7QNpJaa
+
 ---
 
 ## 🎯 Objetivos
@@ -69,6 +77,10 @@ Exportação dos dados para arquivo CSV.
 ## 📂 Estrutura do Projeto
 
 ```text
-├── ETL_Pacientes_Cronicos.ipynb
+├── ETL_Pacientes_Condicoes_Cronicas.ipynb
 ├── pacientes_com_mensagens.csv
 ├── README.md
+├── images/
+│   ├── grafico_sexo.png
+│   └── grafico_faixa_etaria.png''''
+
